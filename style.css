@@ -1,6 +1,14 @@
 @font-face {
   font-family: "Painting_With_Chocolate";
-  src: url("/fonts/Painting_With_Chocolate.woff2");
+  src: url("/Painting_With_Chocolate.woff2");
+}
+@font-face {
+  font-family: "Painting_With_Chocolate";
+  src: url("/Painting_With_Chocolate.tff");
+}
+@font-face {
+  font-family: "Painting_With_Chocolate";
+  src: url("/Painting_With_Chocolate.woff");
 }
 
 @font-face {
